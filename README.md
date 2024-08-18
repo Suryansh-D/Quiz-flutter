@@ -36,9 +36,9 @@ The server will start on `http://localhost:8080`.
 
 To further enhance your project, consider adding these features:
 
-User profile management
-Leaderboard system
-Quiz categories and difficulty levels
-Timed quizzes
-Social sharing of quiz results
-Localization support for multiple languages
+- User profile management
+- Leaderboard system
+- Quiz categories and difficulty levels
+- Timed quizzes
+- Social sharing of quiz results
+- Localization support for multiple languages
